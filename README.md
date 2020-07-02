@@ -1,6 +1,6 @@
 # APITCI
 Instrucciones de uso:
-1- Ingresar al index del Json-Server
+1- Ingresar al index del Json-Server\n
   https://my-json-server.typicode.com/WoozieJuank/APITCI
 2- Seleccionar el apartado de camaras o ingresar al siguiente link
   https://my-json-server.typicode.com/WoozieJuank/APITCI/camaras
